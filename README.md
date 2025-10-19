@@ -2,3 +2,5 @@
 Development of a llm base analysis of tree images
 
 adding a json file
+
+looking up some llms
